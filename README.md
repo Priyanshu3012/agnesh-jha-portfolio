@@ -122,3 +122,4 @@ provided asset folder and is in use — no missing images.
 `/portfolio`: every image referenced was found in `agnesh_assets/Portfolio`
 and is in use. The only miss was the resume PDF filename (see above), which
 was substituted with the closest available file.
+# agnesh-jha-portfolio
